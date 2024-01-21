@@ -8,5 +8,11 @@ namespace Git
 {
     internal class Program2
     {
+       void printHelloITI()
+        {
+            Console.WriteLine("Hello ITI");
+            Console.WriteLine("Hello Git");
+        }
+       
     }
 }
